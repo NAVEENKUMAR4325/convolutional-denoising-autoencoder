@@ -122,7 +122,6 @@ plt.show()
 ![image](https://github.com/NAVEENKUMAR4325/convolutional-denoising-autoencoder/assets/119479566/9b0c1346-5547-4e07-85c4-e38263f98073)
 
 
-Include your plot here
 
 ### Original vs Noisy Vs Reconstructed Image
 
