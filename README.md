@@ -12,7 +12,7 @@ The image dataset is given and the model must denoise the images and show it wit
 
 ## DESIGN STEPS
 
-### STEP 1:
+### STEP 1 :
 Download and split the dataset into training and testing datasets.
 
 ### STEP 2:
